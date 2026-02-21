@@ -1,0 +1,144 @@
+body {
+    background-color: #ffffff
+}
+h1 { color: #ff0000;
+font-family: "Oswald", sans-serif;}
+
+h2 { color: #213172
+font-family: "Oswald", sans-serif;
+}
+
+.subheaderBox {background-color: #e6a7bf; text-align: center; padding: 10px;
+font-family: "Oswald", sans-serif;}
+
+
+
+p {color: #12CB0D
+  font-family: "Spectral", serif;} 
+
+.leadGraph {background-color: #84bdd5; color: #A2250C; font-weight:bold; font-size: 2rem; padding: 20px
+  font-family: "Spectral", serif; float left; width: 100%;}
+}
+
+
+.leadPhoto {margin: 40px 30px 300px 28px;}
+
+a{color: #F70E0E; text-decoration: none;}
+a:hover {color: #9f488e; text-decoration: underline;}
+
+.headerBox {
+    background-color: #f7fcad;
+    text-align: center; 
+    padding: 10px;
+
+}
+
+.bodyText {
+    background-color: burlywood;
+    color: #080109;
+    font-family: "Spectral", serif;
+    font-size: 0.8rem;
+    padding: 20px;
+}
+
+
+.leadGraph {
+    background-color: #84bdd5;
+    color: #9f488e;
+    font-weight: bold;
+        font-size: 2rem;
+        font-family: "Spectral", serif;
+    padding: 2px;
+}
+
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.spectral-extralight {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.spectral-light {
+  font-family: "Spectral", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.spectral-regular {
+  font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.spectral-medium {
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.spectral-semibold {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.spectral-bold {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.spectral-extrabold {
+  font-family: "Spectral", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.spectral-extralight-italic {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.spectral-light-italic {
+  font-family: "Spectral", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.spectral-regular-italic {
+  font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.spectral-medium-italic {
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.spectral-semibold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.spectral-bold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.spectral-extrabold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 800;
+  font-style: italic;
+}
