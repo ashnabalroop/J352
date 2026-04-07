@@ -1,0 +1,41 @@
+.grid-container {
+background-color: #f4f4f4;
+}
+
+
+body {
+    font-family: "roboto slab";
+}
+
+h1 {
+    font-family: "roboto slab"; 
+}
+
+
+ h3 {
+    font-family: "roboto slab"; 
+ }
+
+h4 {
+    font-family: "roboto slab";
+    font-size: 15 px;  
+}
+
+h5 {
+    font-family: "roboto slab";
+    font-size: 15 px;  
+}
+
+h6 {
+     font-family: "roboto slab";
+    font-size: 12 px;  
+}
+
+.juxtapose {
+    width: 300px; 
+    padding-top: 10px;
+    padding-left: 15px; 
+  height: 400;  
+  display: block;
+  margin: 0;
+}
