@@ -1,0 +1,108 @@
+
+body {
+    background-color: #FAF5FA ;
+    font-family: 'Arimo', sans-serif; 
+    color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.callout{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;  
+    font-family: Arimo, sans-serif;
+    text-align: center;
+    background-color:  #F4E2FC;
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.button{
+    background-color: black;
+}
+
+.bio {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.resume-section {
+    margin-bottom: 20px;  
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; ;
+}
+
+.homepage-container
+{
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(240, 209, 241);
+}
+
+.headshot img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.clip {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: Arimo, sans-serif;
+}
+
+.work-section {
+    padding: 5px;
+    text-align: center;
+    background-color: #F4E2FC;
+    border: 3px solid black;
+    border-radius: 5px;
+    color: black;
+    font-family: Arimo, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande'; 
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h5 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.basic-card img {
+  width: 100%;
+  height: 200px;
+}
+
+.basic-card {
+  border: 3px solid black;
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+  text-align: center;
+}
