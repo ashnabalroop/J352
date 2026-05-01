@@ -1,0 +1,48 @@
+.grid-container {
+background-color: #f4f4f4;
+}
+
+responsive-embed widescreen iframe {
+	background-color: #f4f4f4;
+}
+
+body {
+    font-family: "roboto slab";
+}
+
+h1 {
+    font-family: "roboto slab"; 
+}
+
+
+ h3 {
+    font-family: "roboto slab"; 
+ }
+
+ .callout data-equalizer-watch {
+    font-size: ;
+
+ }
+
+ .sidebarimg {
+  width: 400px;   
+  height: auto;  
+  display: block;
+  margin-bottom: 10px;
+  margin-top: auto;
+}
+
+h4 {
+    font-family: "roboto slab";
+    font-size: 15 px;  
+}
+
+h5 {
+    font-family: "roboto slab";
+    font-size: 15 px;  
+}
+
+h6 {
+     font-family: "roboto slab";
+    font-size: 12 px;  
+}
