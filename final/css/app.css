@@ -21,11 +21,12 @@ h1 {
 
  .callout data-equalizer-watch {
     font-size: ;
+    width: 400px;   
 
  }
 
  .sidebarimg {
-  width: 400px;   
+  width: 500px;   
   height: auto;  
   display: block;
   margin-bottom: 10px;
